@@ -13,5 +13,5 @@ Frontend [here](https://github.com/Ratuvog/test-client)
 - `cd test-backend`
 - `npm install`
 - Replace development config of `database`, `host`, `username`, `password` in config/config.json
-- `npm migrate && npm seed`
+- `npm run migrate && npm run seed`
 - `npm start`
